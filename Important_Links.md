@@ -2,8 +2,8 @@
 
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Kathleen McDermott • kmcdermott@nyu.edu • Fall 2019 • 3 Credit Hours
-    Mondays and Wednesdays • 10:30 AM - 12:20 PM • Room 307@ 370 Jay Street
+    Kathleen McDermott • kmcdermott@nyu.edu • Spring 2021 • 3 Credit Hours
+    Mondays and Wednesdays • 10:00 AM - 11:50 PM • Room 355@ 370 Jay Street
     
 
 Here is the [link to the syllabus as a Google Doc, NYU only.](https://docs.google.com/document/d/1e9etQr1FHkihbyQEtmV3A2gUDPoVVIYOFJB15F7g_qg/edit?usp=sharing) It's a google doc for ease of editing calendar week to week. 
