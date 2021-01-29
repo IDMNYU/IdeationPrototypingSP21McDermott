@@ -6,7 +6,7 @@
 
 #### /Inspiration/Iteration/
 
-* Introduction to [Constant Output and Sketchbook Assignment](https://docs.google.com/presentation/d/18Vk7SYn7Nu-OIRZikSdY49G4PF63goR1PVQWlDCK0SY/edit?usp=sharing) 
+* Introduction to [Constant Output and Sketchbook Assignment](https://docs.google.com/presentation/d/18Vk7SYn7Nu-OIRZikSdY49G4PF63goR1PVQWlDCK0SY/edit?usp=sharing) (Slides) 
 
 #### /LAB/ 
 
