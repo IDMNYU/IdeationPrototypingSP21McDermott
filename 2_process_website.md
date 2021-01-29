@@ -13,7 +13,7 @@ The process website is especially important for documenting your Constant Input/
 
 You have several options:
 * Create a dedicated wordpress via [http://wp.nyu.edu](http://wp.nyu.edu)
-* Create a dedicated [tumblr](http://tumblr.com) for this course only.
+* Create a dedicated [tumblr](http://tumblr.com) for this course only. (Or Wix, or your preferred site building tool, feel free to share out in Discord) 
 * Get wordpress installed via IDM Server space. (link coming soon)
 * Alternatively create a **ip** directory if you already have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.
 
