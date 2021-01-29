@@ -9,7 +9,7 @@
 
 #### /LAB/ 
 
-* Drawing from life exercises: Contour Portraits.
+* Drawing from life exercises and warm-ups: Contour Drawings and Portraits.
 
 #### /Assignments/ 
 
@@ -29,6 +29,7 @@
 
 #### /LAB/  
 * Surrealist drawing exercises, brainstorms and warmups. 
+* [Drawing from life continued:](https://docs.google.com/presentation/d/1MHiHcBDQXBgjmypV4PT2QLLm_lzt8LmsfWPsLNYBFcg/edit?usp=sharing) <-- slides 
 
 #### /ASSIGNMENTS/
 
