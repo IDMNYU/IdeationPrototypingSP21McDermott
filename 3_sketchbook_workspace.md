@@ -13,4 +13,15 @@ Document your analog notebook on a weekly basis through photos or videos and upl
 
 Setting up a workspace for inspiration and concentration is integral to building a creative practice. Spend some time setting up a corner of your room or desk to become your "studio space." Give some thought to the work you hope to do this year. Do you want to try stop motion for your constant output? Set-up a paper backdrop and desk lamp. Do you plan to sew? Find a good light source and arrange your tools. Make sure you have a clear wall or pegboard for pinning up post-its, sketches, work-in-progress documentation, etc. 
 
+Recommended supplies:
+* cardboard
+* paper/drawing pad
+* post-its
+* knife/box cutter/exacto knife
+* scissors
+* glue gun
+* pencils, drawings supplies
+* ruler/straight edge
+* cutting mat 
+
 Post a picture of your workspace to Discord by 02/03. You will also be asked to briefly present about it in class. 
