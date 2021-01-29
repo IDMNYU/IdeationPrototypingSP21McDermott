@@ -13,7 +13,7 @@
 
 #### /Assignments/ 
 
-##Due Wednesday:## 
+**Due Wednesday:** 
 * Reading Response Sign-up: [Sign-up to lead discussion for 1 reading](https://docs.google.com/document/d/1fAg28gF4t-Y-D6fQUzeWo-ufKeVOrPIixJw9jL-jSA8/edit?usp=sharing) ← link
 * Join [Discord](https://discord.gg/vjU8nXPVZK)
 * [ASSIGN 03:](3_sketchbook_workspace.md) Sketchbook + Workspace Set-up (post picture to the Discord)
