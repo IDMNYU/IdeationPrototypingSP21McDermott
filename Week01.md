@@ -6,6 +6,7 @@
 * Hello and welcome to [Ideation & Prototyping](https://docs.google.com/presentation/d/1xnn1HyF2itAXpZmDMafjtq32GuBJ7HIbYbOwk9zcxDU/edit?usp=sharing)
 * [Syllabus](Important_Links.md) overview
 * Introduction to [Constant Output and Sketchbook Assignment](https://docs.google.com/presentation/d/18Vk7SYn7Nu-OIRZikSdY49G4PF63goR1PVQWlDCK0SY/edit?usp=sharing) (Slides) 
+* Short [survey](https://forms.gle/WwnpWZNnehF5cuLT7)
 
 #### /LAB/ 
 
