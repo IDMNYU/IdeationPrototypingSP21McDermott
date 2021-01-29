@@ -10,7 +10,7 @@
 
 #### /LAB/ 
 
-*Drawing from life exercises: Contour Portraits. 
+*Drawing from life exercises: Contour Portraits.* 
 
 #### /Assignments/ 
 
@@ -20,7 +20,6 @@ Due Wednesday:
 * [ASSIGN 03:](3_sketchbook_workspace.md) Sketchbook + Workspace Set-up (post picture to the Discord)
 
 
-#Week 02
 ## Wednesday 02/03
 
 #### /PRESENT/ 
