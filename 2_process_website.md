@@ -1,4 +1,4 @@
-# Process Website
+# Assignment 02: Process Website
 
 Documentation of your creative process is an integral part of your creative work; it records the many steps in the creation of a work. This is important because process documentation:
 
