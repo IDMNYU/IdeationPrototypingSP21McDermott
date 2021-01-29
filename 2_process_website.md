@@ -14,12 +14,8 @@ The process website is especially important for documenting your Constant Input/
 You have several options:
 * Create a dedicated wordpress via [http://wp.nyu.edu](http://wp.nyu.edu)
 * Create a dedicated [tumblr](http://tumblr.com) for this course only.
-* Get wordpress installed via sites.bxmc.poly.edu (see below) in a directory labeled **ip**
-* If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled **ip** (see below)
+* Get wordpress installed via IDM Server space. (link coming soon)
 * Alternatively create a **ip** directory if you already have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.
 
-#### Wordpress Group Registration
 
-New Server Accounts and Wordpress sites for students at faculty can be applied for at: 
-http://bxmc.poly.edu/techsupport/?page_id=67 
 
