@@ -1,4 +1,4 @@
-# IdeationPrototypingSP21McDermott
+# Ideation Prototyping Spring2021 McDermott
 Course page for UG Ideation and Prototyping, Spring 2021
 
 * Visit [important links](Important_Links.md) for links to syllabus, readings, etc. The Syllabus is the best place to view the calendar and stay on top of deadlines. 
