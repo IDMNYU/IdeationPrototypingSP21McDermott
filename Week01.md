@@ -36,7 +36,7 @@ Due Next Week:
 
 * ASSIGN 01: [Constant Output](1_constant_output.md) (Ongoing, every week, document on your website + 5 min presentation 02/08)
 * ASSIGN 02: [process website](2_process_website.md) (post Link to Discord 02/08) 
-* Required [Reading 01:](Readings_Responses.md) Design for the Real World, due 02/10 
+* Required [Reading 01:](Reading_Responses.md) Design for the Real World, due 02/10 
 
 
 
