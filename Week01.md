@@ -25,8 +25,10 @@
 * Short [survey](https://forms.gle/WwnpWZNnehF5cuLT7)
 
 #### /LAB/  
-* Surrealist drawing exercises, brainstorms and warmups. 
-* Drawing from life exercises and warm-ups: Contour Drawings and Portraits.
+* Surrealist drawing warm-ups: automatic drawing and mark making: 
+"On a blank piece of paper, draw continuously for several minutes without thinking about what you are going to draw. Let your hand flow freely over the paper without self-censorship.” (ie, tap into subconscious)   
+* Drawing from life warm-ups: Blind Contour Drawings and Portraits.
+Contour drawing requires you to draw without every taking your pencil off the page. This forces you to trace the contour or edge of what you are attempting to draw, very closely with your eyes. A key step to learning to draw is learning to work. 
 * [Drawing from life continued:](https://docs.google.com/presentation/d/1MHiHcBDQXBgjmypV4PT2QLLm_lzt8LmsfWPsLNYBFcg/edit?usp=sharing) <-- slides 
 
 #### /ASSIGNMENTS/
