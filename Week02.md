@@ -11,7 +11,7 @@
 
 **Due Wednesday:** 
 * Required [Reading 01:](Reading_Responses.md) Design for the Real World Chapter 4, post response (directly or a link) to Discord 02/10 
-* Post the person you plan to profile for Project 01, [Creative Process](Project1_creative_process.md) to the Discord #Project01 
+* Post the name of the person you plan to profile for Project 01, [Creative Process](Project1_creative_process.md) to the Discord #Project01 
 
 
 ## Wednesday 02/10
