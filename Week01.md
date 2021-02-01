@@ -6,11 +6,6 @@
 * Hello and welcome to [Ideation & Prototyping](https://docs.google.com/presentation/d/1xnn1HyF2itAXpZmDMafjtq32GuBJ7HIbYbOwk9zcxDU/edit?usp=sharing)
 * [Syllabus](Important_Links.md) overview
 * Introduction to [Constant Output and Sketchbook Assignment](https://docs.google.com/presentation/d/18Vk7SYn7Nu-OIRZikSdY49G4PF63goR1PVQWlDCK0SY/edit?usp=sharing) (Slides) 
-* Short [survey](https://forms.gle/WwnpWZNnehF5cuLT7)
-
-#### /LAB/ 
-
-* Drawing from life exercises and warm-ups: Contour Drawings and Portraits.
 
 #### /Assignments/ 
 
@@ -27,9 +22,11 @@
 
 ##### /INSPIRATION/ 
 * Introduction to Project 01, [Creative Process](Project1_creative_process.md)
+* Short [survey](https://forms.gle/WwnpWZNnehF5cuLT7)
 
 #### /LAB/  
 * Surrealist drawing exercises, brainstorms and warmups. 
+* Drawing from life exercises and warm-ups: Contour Drawings and Portraits.
 * [Drawing from life continued:](https://docs.google.com/presentation/d/1MHiHcBDQXBgjmypV4PT2QLLm_lzt8LmsfWPsLNYBFcg/edit?usp=sharing) <-- slides 
 
 #### /ASSIGNMENTS/
