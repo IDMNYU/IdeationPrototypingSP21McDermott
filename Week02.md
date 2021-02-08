@@ -20,7 +20,12 @@
 * Discussion: [Reading 01:](Reading_Responses.md) Design for the Real World Chapter 4
 
 #### /ITERATION/PROTOTYPING/
-* Lecture: Design Research Overview 
+* Lecture: [Design Research Intro](https://docs.google.com/presentation/d/1UGf2cRX1_iFs5dr76ll7hIAAxrzbX_VrRQJ7F3fX_h8/edit?usp=sharing) 
+
+#### /LAB/
+* Drawing from life warm-ups: Blind Contour Drawings and Portraits. Contour drawing requires you to draw without every taking your pencil off the page. This forces you to trace the contour or edge of what you are attempting to draw, very closely with your eyes. A key step to learning to draw is learning to look.
+* [Drawing from life continued](https://docs.google.com/presentation/d/1MHiHcBDQXBgjmypV4PT2QLLm_lzt8LmsfWPsLNYBFcg/edit?usp=sharing)
+
 
 #### /ASSIGNMENTS/
 
