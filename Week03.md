@@ -20,13 +20,14 @@ NO CLASS, PRESIDENTS DAY <-- we meet Thursday instead.
 ##  Thursday 02/18
 
 
+#### /ITERATION/PROTOTYPING
+* Introduce [Assignment 04: Make A Document Camera.](4_document_camera.md)
+* LAB: [MAKER SPACE TRAINING](http://makerspace.engineering.nyu.edu/) 
+
+
 #### /INSPIRATION/
 * Reading Discussion 02: Miseducation of the Doodle and Sketching: The Visual Thinking Power Tool 
 
-#### /ITERATION/PROTOTYPING
-* Introduce [Assignment 04: Make A Document Camera.](4_document_camera.md)
-
-* LAB: MAKER SPACE TRAINING (pending confirmation)
 
 
 #### /ASSIGNMENTS/
