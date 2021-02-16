@@ -13,7 +13,9 @@ NO CLASS, PRESIDENTS DAY <-- we meet Thursday instead.
 * Lecture: [Design Research Intro](https://docs.google.com/presentation/d/1UGf2cRX1_iFs5dr76ll7hIAAxrzbX_VrRQJ7F3fX_h8/edit?usp=sharing) 
 
 #### /LAB/
-* LAB: “Moral Agent” Re-design the form of a common object
+* Drawing from life warm-ups: Blind Contour Drawings and Portraits. Contour drawing requires you to draw without every taking your pencil off the page. This forces you to trace the contour or edge of what you are attempting to draw, very closely with your eyes. A key step to learning to draw is learning to look.
+* [Drawing from life continued](https://docs.google.com/presentation/d/1MHiHcBDQXBgjmypV4PT2QLLm_lzt8LmsfWPsLNYBFcg/edit?usp=sharing)
+
 
 #### /Assignments/ 
 
@@ -30,9 +32,6 @@ NO CLASS, PRESIDENTS DAY <-- we meet Thursday instead.
 #### /INSPIRATION/
 * Reading Discussion 02: Miseducation of the Doodle and Sketching: The Visual Thinking Power Tool 
 
-#### /LAB/
-* Drawing from life warm-ups: Blind Contour Drawings and Portraits. Contour drawing requires you to draw without every taking your pencil off the page. This forces you to trace the contour or edge of what you are attempting to draw, very closely with your eyes. A key step to learning to draw is learning to look.
-* [Drawing from life continued](https://docs.google.com/presentation/d/1MHiHcBDQXBgjmypV4PT2QLLm_lzt8LmsfWPsLNYBFcg/edit?usp=sharing)
 
 
 #### /ASSIGNMENTS/
