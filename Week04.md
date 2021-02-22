@@ -12,5 +12,5 @@
 #### /ASSIGNMENTS/
  
  
-* Req Reading 3: Toaster Project, Due 03/03
+* Req Reading 3: Toaster Project, Due 03/01
 * Assignment 04: [Document Camera](4_document_camera.md), due 03/03
