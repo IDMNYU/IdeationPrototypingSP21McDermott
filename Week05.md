@@ -19,7 +19,7 @@
 #### /ITERATION/PROTOTYPING
 
 * Present Assignment 04: [Document Camera](4_document_camera.md)
-* Lecture: Design Research Methods Continued (City as Site)
+* Lecture: [Design Research Methods Continued](https://docs.google.com/presentation/d/1Th1rqvcV9UcW-3oMBZrE5iQjybsqyXxg_M8a0benmro/edit?usp=sharing) (City as Site)
 * Make groups for [Project 2 City as Site](Project2_CityasSite.md)
 
 #### /ASSIGNMENTS/
