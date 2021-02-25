@@ -3,7 +3,7 @@
 
 #### /RESEARCH/PROTOTYPING
 * [Creative Process](Project1_creative_process.md), Presentations continued
-* Req Reading 3: Toaster Project (Preface and Introduction), Due 03/01
+* Req Reading 3: Toaster Project (Preface and Introduction), Discussion
 
 #### /LAB
 
