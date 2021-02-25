@@ -1,7 +1,7 @@
 # Project 2. City as Site: Research and Prototype (Groups of 2-3) 
 
 ## Part 01: 
-Identify an area of infrastructure or public space to research, in each group member’s location. (For example, waste water treatment plants exist in every town, public libraries, bus stops, fire hydrants, parking garages, statues, fences…) In addition to completing general background research through the library and other academic sources, develop and implement a unique research strategy to gain information about your site first-hand. Document this process.
+Identify an area of infrastructure or public space to research in each group member’s location. (For example, waste water treatment plants exist in every town, public libraries, bus stops, fire hydrants, parking garages, statues, fences…) In addition to completing general background research through the library and other academic sources, develop and implement a unique research strategy to gain information about your site first-hand. Document this process.
 Examples of research strategies may include:
 * Life drawing
 * Photo/video documentation
