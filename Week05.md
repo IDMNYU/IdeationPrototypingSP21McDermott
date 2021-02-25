@@ -7,9 +7,9 @@
 
 #### /LAB
 
-* Common object Codex. 
-I. Instructions: Choose an object from your surroundings to study. Draw it as a way to understand it (Codex). Take it apart if you can. 
-II. Think about how the form could be different while retaining the object’s function. You may also think about modifying the object’s function for a specific context or use-case. 
+* Common object Codex. Instructions: 
+1. Choose an object from your surroundings to study. Draw it as a way to understand it (Codex). Take it apart if you can. 
+2. Think about how the form could be different while retaining the object’s function. You may also think about modifying the object’s function for a specific context or use-case. 
 
 #### /ASSIGNMENTS/
 * Assignment 04: [Document Camera](4_document_camera.md) due Wednesday, post picture to Discord, be prepared to briefly demo/show/use in class  
