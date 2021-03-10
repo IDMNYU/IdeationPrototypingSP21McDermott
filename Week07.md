@@ -3,6 +3,7 @@
 
 #### /INSPIRATION/RESEARCH
 * PROJECT 02 [City as Site Part I, Research](Project2_CityasSite.md) Presentations
+* Join [Miro](https://miro.com/welcome/f9gxky2nfwWqAQsCsddOvF7JtSjKbgY2ZMFG5pgpprmwSV9VsNeUc75HMhta96Z9) and/or enter without signing up, [Board Link](https://miro.com/app/board/o9J_lQWicg0=/) password is project2
 
 ## Wednesday 03/17
 
