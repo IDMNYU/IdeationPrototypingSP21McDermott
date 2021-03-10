@@ -10,7 +10,7 @@ Examples of research strategies may include:
 * Setting up a website for gaining input 
 
 For more research strategy ideas, refer to Ideo's [Human-centered design guide.](https://www.ideo.com/post/design-kit) 
-You may also reference artistic research projects such as Miranda July's [Learning to Love You More](http://learningtoloveyoumore.com/)
+You may also reference artistic research projects such as Miranda July's [Learning to Love You More](http://learningtoloveyoumore.com/) or other [creative design research practices](https://docs.google.com/presentation/d/1Th1rqvcV9UcW-3oMBZrE5iQjybsqyXxg_M8a0benmro/edit?usp=sharing) for inspiration 
 
 Due 03/15
 *In your presentation, give some indication of where you think this is going in Part 02* 
