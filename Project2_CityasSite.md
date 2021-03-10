@@ -13,6 +13,8 @@ For more research strategy ideas, refer to Ideo's [Human-centered design guide.]
 You may also reference artistic research projects such as Miranda July's [Learning to Love You More](http://learningtoloveyoumore.com/)
 
 Due 03/15
+*In your presentation, give some indication of where you think this is going in Part 02* 
+
 
 ## Part 02: 
 Produce a design for the site which builds on existing features, modifying it, or allowing it to have a double function. Projects can be political, interventionist, educational, spiritual, problem-solving, or playful. Final project may take the form of a rendering, model, object, photo or video, (documentation or speculative). Physical interventions should be temporary, and avoid defacement of property. Document your process well, and be prepared to present it, along with your finished work, in class. Your final outcome should be finished and presentation ready. 
