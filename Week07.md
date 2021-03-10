@@ -9,7 +9,7 @@
 #### /INSPIRATION/RESEARCH
 
 * PROJECT 02 [City as Site Part I, Research](Project2_CityasSite.md) Presentations
-* [Arduino Lab Continued](https://docs.google.com/presentation/d/18kEhF5yB80mr9n4uDPztdqkZU14ployYpcoq9CAGomA/edit?usp=sharing)
+* [Arduino Lab Continued](https://docs.google.com/presentation/d/18kEhF5yB80mr9n4uDPztdqkZU14ployYpcoq9CAGomA/edit?usp=sharing) <-- Bring your kit and USB adapters!
 
 
 #### /ASSIGNMENTS/
