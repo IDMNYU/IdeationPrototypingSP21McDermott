@@ -13,7 +13,7 @@ For more research strategy ideas, refer to Ideo's [Human-centered design guide.]
 You may also reference artistic research projects such as Miranda July's [Learning to Love You More](http://learningtoloveyoumore.com/) or other [creative design research practices](https://docs.google.com/presentation/d/1Th1rqvcV9UcW-3oMBZrE5iQjybsqyXxg_M8a0benmro/edit?usp=sharing) for inspiration 
 
 Due 03/15
-*In your presentation, give some indication of where you think this is going in Part 02* 
+*At the end of your presentation, give some indication of where you think this is going in Part 02, but you don't have to have it worked out entirely. Your research should guide the design, not the other way around* 
 
 
 ## Part 02: 
