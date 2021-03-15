@@ -17,4 +17,4 @@
 
 * Required Reading 05: Universal Methods of Design due 03/24 
 (Choose 5 methods to read and respond to)
-* Friday 03/19 = Spring Break Weekend PART I OMG 
+* Friday 03/19 = Spring Break Weekend PART I OMG <-- No Constant Output required for next week. 
