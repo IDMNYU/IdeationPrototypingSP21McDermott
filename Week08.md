@@ -4,7 +4,7 @@
 #### /INSPIRATION/ITERATION
 * Lecture: [Fluxus ](https://docs.google.com/presentation/d/150LyV0-E37DwaPDQaaJT4bJOQf9veOcVCMcFvBurfzk/edit?usp=sharing) 
 * Introduce mid-point check-in
-* Introduce [Assign 05: Fluxus Score](5_fluxus_instruction.md)pow 
+* Introduce [Assign 05: Fluxus Score](5_fluxus_instruction.md) 
 
 #### /INSPIRATION/
 * Video references, should time allow: [Powers of Ten](https://www.youtube.com/watch?v=0fKBhvDjuy0)
@@ -23,6 +23,6 @@
 
 Due Next Week:
 * Project 02: City as Site *Work in progress* due 03/29
-* Assignment 05: Fluxus Score due 03/31
+* [Assign 05: Fluxus Score](5_fluxus_instruction.md) due 03/31
 
 
