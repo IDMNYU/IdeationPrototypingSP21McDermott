@@ -23,7 +23,8 @@
 ## /ASSIGNMENTS/
 
 Due Next Week:
-* Project 02: City as Site *Work in progress* due 03/29
+* Project 02: City as Site due 04/05
+* Schedule TBA 
 
 
 
