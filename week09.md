@@ -23,7 +23,7 @@
 ## /ASSIGNMENTS/
 
 Due Next Week:
-* Project 02: City as Site due 04/05
+* Project 02: [City as Site](Project2_CityasSite.md) due 04/05
 * Schedule TBA 
 
 
