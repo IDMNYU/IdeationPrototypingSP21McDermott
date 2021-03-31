@@ -11,7 +11,7 @@
 #### /ITERATION/PROTOTYPING
 
 * Project 02 Presentations – Low-Fi Prototypes/Work in Progress
-(Model, sketch, material test) (Group 6: Bust stops) 
+(Model, sketch, material test) (Group 6: Bus stops) 
 * Present: [Assign 05: Fluxus Score](5_fluxus_instruction.md) 
 
 #### /INSPIRATION/RESEARCH
