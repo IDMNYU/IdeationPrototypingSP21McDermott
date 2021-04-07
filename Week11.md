@@ -14,7 +14,7 @@
 * Reading Discussion: Design of Everyday things; Chapter 6: Design Thinking 
 * Present [Collaborative Output](6_collab_output.md) 
 
-* In class discussiong: [Final Project](Project3_Seatbelts.md]  
+* In class discussion: [Final Project](Project3_Seatbelts.md]  
 
 #### /INSPIRATION/RESEARCH 
 
@@ -24,5 +24,5 @@
 ## /ASSIGNMENTS/
 
 Due Next Week:
-* REQ READING 06: Design of Everyday Things; Chapter 6: Design Thinking (NYU Library link in syllabus) (Due Wed, 04/14)
-* Assignment 06: Collaborative Output (Due Wed, 04/14) <-- In place of regular constant output 
+* NO CLASS MONDAY 
+* REQ READING 07: Race After Technology, Due Wednesday, 04/21
