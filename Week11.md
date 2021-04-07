@@ -14,7 +14,7 @@
 * Reading Discussion: Design of Everyday things; Chapter 6: Design Thinking 
 * Present [Collaborative Output](6_collab_output.md) 
 
-* In class discussion: [Final Project](Project3_Seatbelts.md]  
+* In class discussion: [Final Project](Project3_Seatbelts.md)  
 
 #### /INSPIRATION/RESEARCH 
 
