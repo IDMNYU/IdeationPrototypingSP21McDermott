@@ -4,7 +4,7 @@
 #### /INSPIRATION/PROTOTYPING
 
 * LAB: Classmate interview, brainstorm and production for [Collaborative Output.](6_collab_output.md) 
-      * User this [Miro board Link](https://miro.com/app/board/o9J_lLO4J-E=/) to brainstorm; password:collab_output    
+      * * Use this [Miro board Link](https://miro.com/app/board/o9J_lLO4J-E=/) to brainstorm; password:collab_output    
 * In-Class meetings with Instructor to discuss Midterm grades, questions, concerns.  
 
 
