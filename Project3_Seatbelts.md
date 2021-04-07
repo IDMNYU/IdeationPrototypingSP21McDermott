@@ -17,7 +17,7 @@ Design something to help prevent misuse or that allows the technology to be appl
 **Document your design in a way that builds a narrative around it. Recommended: staged or manipulated photograph, short video, or GIF. Your final outcome should be finished and presentation ready. For group work, be prepared to explain how you divided the labor. Due to Discord, 05/05** 
 
 ### Tip 
-Where project 2 emphasized real world research, project 3 is an opportunity to combine research with creative speculation, and especially to exercise storytelling skills, which are an important feature of communicating your design ideas. 
+Where project 2 emphasized real world research, project 3 is an opportunity to combine research with [creative speculation](https://docs.google.com/presentation/d/1s7xoa6iYcCZ_7PX9XTV-9vS7qcaaxKCn3BnwJ4J6i5s/edit?usp=sharing), and especially to exercise storytelling skills, which are an important feature of communicating your design ideas. 
 
 ### Examples from past students
 * "Insulated air pod holder to prevent them from being used as a listening device" 
