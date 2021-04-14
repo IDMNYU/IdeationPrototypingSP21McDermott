@@ -1,4 +1,4 @@
-# Project 3. Designing “Seat belts” for Technology (Individual, or Groups of 2) 
+# Project 3. Designing “Seat belts” for Technology (Individual, or Groups of 2-3) 
 
 “Every new technology offers an opportunity to ask if it serves our human purposes. From there begins the work of making technology better serve these purposes. It took generations to get nutrition labels on food; it took generations to get speed limits on roads and seat belts and air bags into cars…In the case of communications technology, we have just begun."
 - Turkle, Sherry. Reclaiming conversation: The power of talk in a digital age. Penguin, 2016.
