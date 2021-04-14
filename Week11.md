@@ -38,6 +38,7 @@
 
 #### /INSPIRATION/RESEARCH 
 
+* If time allows: [editing quick tips](https://docs.google.com/presentation/d/13qOxrtrMpmYPSZ4qcbl82TZd2EHHyaBk7luHYXuyA14/edit?usp=sharing)
 * Video references, should time allow: [Everything is a Remix](https://vimeo.com/14912890)
 
 
