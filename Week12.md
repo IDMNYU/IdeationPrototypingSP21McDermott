@@ -14,7 +14,7 @@
 
 * [Speculative design world building](https://docs.google.com/document/d/1a8WdFovmB8ONxMZkmC-SiO_y999h7VncJWHa5ciCg0Y/edit?usp=sharing) 
 * [Editing quick tips](https://docs.google.com/presentation/d/13qOxrtrMpmYPSZ4qcbl82TZd2EHHyaBk7luHYXuyA14/edit?usp=sharing)
-* Start your storyboard 
+* Start your [storyboard](https://miro.com/app/board/o9J_lJf8wTg=/) password = speculative 
 
 
 ## /ASSIGNMENTS/
