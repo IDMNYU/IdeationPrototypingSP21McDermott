@@ -21,4 +21,4 @@
 
 Due Next Week:
 * REQ READING 08: Speculative Design (Due Monday 04/26) <-- last reading!
-* [Project 03](Project3_Seatbelts.md) progress check-in 
+* [Project 03](Project3_Seatbelts.md) progress check-in, bring drawings, tests, concepts for feedback (Due 4/28)
