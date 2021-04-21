@@ -16,5 +16,5 @@
 ## /ASSIGNMENTS/
 
 Due Next Week:
-* * REQ READING 07: Race After Technology, (Due Monday 04/26) 
+* REQ READING 07: Race After Technology, (Due Monday 04/26) 
 * [Project 03](Project3_Seatbelts.md) progress check-in, bring drawings, tests, concepts for feedback (Due 4/28)
