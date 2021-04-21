@@ -6,10 +6,6 @@
 
 ## Wednesday 04/21
 
-#### /INSPIRATION/RESEARCH 
-
-* REQ READING 07: Race After Technology, Due Wednesday, 04/21
-
 #### /LAB 
 
 * [Speculative design world building](https://docs.google.com/document/d/1a8WdFovmB8ONxMZkmC-SiO_y999h7VncJWHa5ciCg0Y/edit?usp=sharing) 
@@ -20,5 +16,5 @@
 ## /ASSIGNMENTS/
 
 Due Next Week:
-* REQ READING 08: Speculative Design (Due Monday 04/26) <-- last reading!
+* * REQ READING 07: Race After Technology, (Due Monday 04/26) 
 * [Project 03](Project3_Seatbelts.md) progress check-in, bring drawings, tests, concepts for feedback (Due 4/28)
