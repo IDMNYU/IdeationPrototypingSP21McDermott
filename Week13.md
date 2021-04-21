@@ -17,7 +17,7 @@
 #### /ITERATION/PROTOTYPING
 
 * Round Robin Feedback: Be prepared to show work in progress for [Project 03](Project3_Seatbelts.md)
-* Final lecture: Phasing and Planning Projects 
+* Final lecture: [Phasing and Planning Projects ](https://docs.google.com/presentation/d/1xHLW_uusm9RzCBOy9Yc-LxN5Mj80Uu6gZynTCVDLDRU/edit?usp=sharing)
 
 ## /ASSIGNMENTS/
 
