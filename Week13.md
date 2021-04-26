@@ -25,3 +25,4 @@ Due Next Week:
 * REQ READING 08: Speculative Design (Due 05/03)
 * 5 min presentations on Constant Output, 05/03, choose a few posts to highlight (shouldn't require much prep! you did the work already, just show us) 
 * [Project 03](Project3_Seatbelts.md) (Due 05/05, 05/10)
+* course evals are open please fill out! 
