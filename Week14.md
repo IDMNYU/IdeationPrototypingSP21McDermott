@@ -14,7 +14,8 @@
 
 #### /PROTOTYPING
 
-* Present [Project 03](Project3_Seatbelts.md)
+* Present [Project 03](Project3_Seatbelts.md) Day 1
+* Presentation [schedule ](https://docs.google.com/document/d/1__fZSTeFNWq_GBe9hSyMWdOmmpPJivgeHPKSeJG28K0/edit?usp=sharing)
 
 
 #### /ASSIGNMENTS/
