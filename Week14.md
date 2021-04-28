@@ -3,7 +3,7 @@
 
 #### /RESEARCH/INSPIRATION
 
-* REQ READING 08: Speculative Design
+* REQ READING 08: Speculative Design (linked in syllabus)
 
 #### /ITERATION
 
