@@ -7,7 +7,7 @@
 
 #### /ITERATION
 
-* 5 min presentations on Constant Output, choose a few posts to highlight (shouldn't require much prep! you did the work already, just show us)
+* 5 min presentations on [Constant Output](1_constant_output.md), choose a few posts to highlight (shouldn't require much prep! you did the work already, just show us)
 
 
 ## Wednesday 05/05
